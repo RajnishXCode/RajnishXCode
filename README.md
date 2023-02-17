@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Rajnish Tripathi!. I am a tech enthusiast and I am aspiring to become a <h1>Frontend Developer<h1/>.
+  
