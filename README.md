@@ -1,7 +1,7 @@
 ### Hello and Welcome 👋, I'm Rajnish Tripathi
 
 ### I'm a Student, Developer, and Content Creator
-- 👨🏽‍🎓 I enjoy teaching coding skills and helping students
+- 👨🏽‍🎓 I enjoy coding skills and helping others to learn
 - 🌱 I'm currently growing my [Youtube Channel](https://www.youtube.com/@TheRajnishDiaries)
 - 📚 I'm constantly learning new skills and _striving for progress_
 - 🏆 Goal: Be the person I needed when I was younger
