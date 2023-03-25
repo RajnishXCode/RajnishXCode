@@ -16,11 +16,6 @@
 
 ### 💻 Programming Languages:
 
-
-
-<img align="left" target="_blank" alt="HTML" width="26px" src="![image](https://user-images.githubusercontent.com/82767514/227738212-ccd6f17b-c694-41d7-b8a4-8ffd4f1c2305.png)
-" />
-
 <img align="left" target="_blank" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <img align="left" target="_blank" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
