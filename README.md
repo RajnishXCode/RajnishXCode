@@ -14,7 +14,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-### 💻 Programming Languages:
+### 💻 Programming Languages:!
+
+<img align="left" target="_blank" alt="html" width="26px" 
+src="https://user-images.githubusercontent.com/82767514/227741019-149219bd-7ec1-48e0-87b4-9825f9645a9b.png" />
 
 <img align="left" target="_blank" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
