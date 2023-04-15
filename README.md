@@ -2,7 +2,6 @@
 
 ### I'm a Student, Developer, and Content Creator
 - 👨🏽‍🎓 I enjoy coding and helping others to learn coding
-- 🌱 I'm currently growing my [Youtube Channel](https://www.youtube.com/@TheRajnishDiaries)
 - 📚 I'm constantly learning new skills and _striving for progress_
 - 🏆 Goal: Be the person I needed when I was younger
 - ⚡ Motto: _Keep striving for progress, not perfection_
