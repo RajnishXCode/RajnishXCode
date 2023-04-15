@@ -6,13 +6,15 @@
 - 🏆 Goal: Be the person I needed when I was younger
 - ⚡ Motto: _Keep striving for progress, not perfection_
 
-### 🗄️ Few of My Best Projects
-<!-- BLOG-POST-LIST:START -->
+### 🗄️ Few of My Best Repositories
 - [Vine City](https://github.com/rajnishtripathi2001/Vine-City)
-- [ Random Phone Number Generator](https://github.com/rajnishtripathi2001/Random-Phone-Number-Generator)
-- [HD Image Crawler ](https://github.com/rajnishtripathi2001/Fetching-images-with-API)
+- [Random Phone Number Generator](https://github.com/rajnishtripathi2001/Random-Phone-Number-Generator)
+- [HD Image Crawler](https://github.com/rajnishtripathi2001/Fetching-images-with-API)
 
-<!-- BLOG-POST-LIST:END -->
+### 🔭 Few of My Best Live Projects
+- [VC Chat App](https://vc-chat-app-frontend.vercel.app/)
+- [Vine City](https://vine-city.vercel.app/)
+- [Random Phone Number Generator](https://random-phone-number-generator-ten.vercel.app/)
 
 ### ✍️ Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
