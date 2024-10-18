@@ -50,3 +50,12 @@ src="https://user-images.githubusercontent.com/82767514/227741019-149219bd-7ec1-
 
 <img align="left" target="_blank" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RajnishXCode&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RajnishXCode&limit=7&theme=dracula&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=RajnishXCode&icon=2&color=11)](https://visitcount.itsvg.in)
+
