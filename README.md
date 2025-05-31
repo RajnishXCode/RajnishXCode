@@ -7,20 +7,9 @@
 - ⚡ Motto: _Keep striving for progress, not perfection_
 
 ### 🗄️ Few of My Best Repositories
-- [Vine City](https://github.com/rajnishtripathi2001/Vine-City)
-- [Random Phone Number Generator](https://github.com/rajnishtripathi2001/Random-Phone-Number-Generator)
-- [HD Image Crawler](https://github.com/rajnishtripathi2001/Fetching-images-with-API)
-
-### 🔭 Few of My Best Live Projects
-- [VC Chat App](https://vc-chat-app-frontend.vercel.app/)
-- [Vine City](https://vine-city.vercel.app/)
-- [Random Phone Number Generator](https://random-phone-number-generator-ten.vercel.app/)
-
-### ✍️ Latest Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- I will post something soon
-
-<!-- BLOG-POST-LIST:END -->
+- [ObfusGuard](https://github.com/RajnishXCode/ObfusGuard)
+- [PyAutoBOT - Yourtube View Generator](https://github.com/RajnishXCode/PyAutoBOT)
+- [SociWave - Paid Social Media Booster Application](https://github.com/RajnishXCode/SociWave)
 
 ### 💻 Languages I Use
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajnishXCode&layout=compact&langs_count=10&theme=radical)
