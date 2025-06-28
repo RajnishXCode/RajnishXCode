@@ -1,6 +1,6 @@
 ### Hello and Welcome 👋, I'm Rajnish Tripathi
 
-### I'm a Student, Developer, and Content Creator
+### I'm a Full-Stack Developer, and Content Creator
 - 👨🏽‍🎓 I enjoy coding and helping others to learn coding
 - 📚 I'm constantly learning new skills and _striving for progress_
 - 🏆 Goal: Be the person I needed when I was younger
