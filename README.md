@@ -1,20 +1,15 @@
 ### Hello and Welcome 👋, I'm Rajnish Tripathi
 
 ### I'm a Full-Stack Developer, and Content Creator
-- 👨🏽‍🎓 I enjoy coding and helping others to learn coding
+- 👨🏽‍🎓 I enjoy coding
 - 📚 I'm constantly learning new skills and _striving for progress_
 - 🏆 Goal: Be the person I needed when I was younger
 - ⚡ Motto: _Keep striving for progress, not perfection_
 
 ### 🗄️ Few of My Best Repositories
+- [ByteStream - Telegram Video Downloader](https://github.com/RajnishXCode/ByteStream)
 - [ObfusGuard](https://github.com/RajnishXCode/ObfusGuard)
 - [PyAutoBOT - Yourtube View Generator](https://github.com/RajnishXCode/PyAutoBOT)
-- [SociWave - Paid Social Media Booster Application](https://github.com/RajnishXCode/SociWave)
-
-### 💻 Languages I Use
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajnishXCode&layout=compact&langs_count=10&theme=radical)
-
-
 
 ### 💻 Programming Languages:!
 
@@ -38,13 +33,3 @@ src="https://user-images.githubusercontent.com/82767514/227741019-149219bd-7ec1-
 <img align="left" target="_blank" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <img align="left" target="_blank" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RajnishXCode&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RajnishXCode&limit=7&theme=dracula&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=RajnishXCode&icon=2&color=11)](https://visitcount.itsvg.in)
-
